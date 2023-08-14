@@ -1,8 +1,0 @@
-:host {
-  transform: rotate(0);
-  transition: transform 0.3s ease;
-
-  &.toggled {
-    transform: rotate(180deg);
-  }
-}
